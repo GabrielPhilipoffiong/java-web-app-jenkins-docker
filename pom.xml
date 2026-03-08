@@ -34,7 +34,7 @@
     <sonar.projectKey>java-web-app</sonar.projectKey>
     <sonar.projectName>java-web-app</sonar.projectName>
     <sonar.host.url>http://100.31.107.223:9000</sonar.host.url>
-    <sonar.login></sonar.login>
+    <sonar.login>squ_9c99cb49f8a9be6fb4152a992e9dc9c98f4a47f9</sonar.login>
 
 </properties>
 
