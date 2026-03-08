@@ -33,8 +33,8 @@
     <!-- SonarQube Configuration -->
     <sonar.projectKey>java-web-app</sonar.projectKey>
     <sonar.projectName>java-web-app</sonar.projectName>
-    <sonar.host.url>http://YOUR-SONAR-SERVER:9000</sonar.host.url>
-    <sonar.login>YOUR_SONAR_TOKEN</sonar.login>
+    <sonar.host.url>http://100.31.107.223:9000</sonar.host.url>
+    <sonar.login></sonar.login>
 
 </properties>
 
