@@ -33,8 +33,8 @@
     <!-- SonarQube Configuration -->
     <sonar.projectKey>java-web-app</sonar.projectKey>
     <sonar.projectName>java-web-app</sonar.projectName>
-    <sonar.host.url>http://100.31.107.223:9000</sonar.host.url>
-    <sonar.login>squ_9c99cb49f8a9be6fb4152a992e9dc9c98f4a47f9</sonar.login>
+    <sonar.host.url>13.220.233.239:9000</sonar.host.url>
+    <sonar.login></sonar.login>
 
 </properties>
 
@@ -121,13 +121,13 @@
     <repository>
         <id>nexus</id>
         <name>Maven Releases Repository</name>
-        <url>http://YOUR-NEXUS-SERVER:8081/repository/maven-releases/</url>
+        <url>http://184.73.80.117:8081/repository/apple-webapp/</url>
     </repository>
 
     <snapshotRepository>
         <id>nexus</id>
         <name>Maven Snapshots Repository</name>
-        <url>http://YOUR-NEXUS-SERVER:8081/repository/maven-snapshots/</url>
+        <url>http://184.73.80.117:8081/repository/Apple-webapp1/</url>
     </snapshotRepository>
 
 </distributionManagement>
