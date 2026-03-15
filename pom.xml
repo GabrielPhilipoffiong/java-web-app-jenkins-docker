@@ -33,7 +33,7 @@
     <!-- SonarQube Configuration -->
     <sonar.projectKey>java-web-app</sonar.projectKey>
     <sonar.projectName>java-web-app</sonar.projectName>
-    <sonar.host.url>13.220.233.239:9000</sonar.host.url>
+    <sonar.host.url>98.93.148.202:9000</sonar.host.url>
     
 
 </properties>
